@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">trabalhoG1</string>
+    <string name="nota1">Insira a primeira nota</string>
+    <string name="nota2">Insira a segunda nota</string>
+    <string name="calcular">Calcular</string>
+    <string name="media">Media final</string>
+    <string name="voltar">Voltar</string>
+</resources>
